@@ -1,1 +1,1 @@
-# sandeep-mallela-color-identification-in-images
+# sandeep-color-identification-in-images
