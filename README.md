@@ -1,1 +1,1 @@
-# sandeep-color-identification-in-images
+# color-identification-in-images 
